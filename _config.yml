@@ -1,8 +1,9 @@
-title: Your Title
+title: Pierre Laplace
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  About Atmospheric Simulation and PhD Course
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "Pieere-Laplace.github.io" # the base hostname & protocol for your site
+author: "Pierre Laplace"
 # Build settings
 markdown: kramdown
 
