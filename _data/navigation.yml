@@ -1,0 +1,12 @@
+- title: "ホーム"
+  url: "/"
+
+- title: "研究概要"
+  url: "/research"
+
+- title: "発表 & 論文"
+  url: "/publications"
+
+- title: "プロフィール"
+  url: "/about"
+
