@@ -12,9 +12,9 @@ facebook:
 
 logo: "../css/2016_style/img/icon-large.png"
 
-social: 
-  name: Your Facebook Page
-  link: "https://www.facebook.com/"
+#social: 
+ # name: Your Facebook Page
+  #link: "https://www.facebook.com/"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
