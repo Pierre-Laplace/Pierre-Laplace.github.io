@@ -351,6 +351,7 @@ header {
 header .intro-text {
     padding-top: 25vh;
     padding-bottom: 50px;
+    color: black !important;
 }
 
 header .intro-text .intro-lead-in {
